@@ -27,4 +27,6 @@ export const colors = [
     "#9bbbfc",
     "#4741a6",
     "#f9ce69",
-]
+];
+
+console.log(colors);
